@@ -3,7 +3,7 @@
  # =============================================================================
 ---
  account: ariley1441638.us-4 # sfdemo.us-1
- dataset: oneeighthundredflowers # nto
+ dataset: arnoldspizzashop # nto
  uid_campaign: Get User Attributes # Slack User Profile ID Lookup
  promo_campaign: Get Einstein Decisions # Next Best Action - SST
  promo_datafield: promos # promos
